@@ -32,3 +32,19 @@ Collection of automation and system administration scripts.
 ```bash
 ./sysinfo.sh
 ```
+
+## Screenshots
+
+### File Organization Demo
+
+Before organizing:
+![Before Organization](screenshots/Screenshot%20from%2025-11-29%2009-12-48.png)
+
+Organized into folders:
+![Organized Folders](screenshots/Screenshot%20from2025-11-29-33-39.png)
+
+Files sorted by type:
+![Sorted Files](screenshots/Screenshot%20from%2025-11-29%2009-19-02.png)
+
+### System Info Script Output
+![System Info]screenshots/Screenshot%20from%2025-11-29%2009-20-07.png)
