@@ -57,7 +57,7 @@ Collection of system administration and automation scripts including file organi
 ## Contact
 - **GitHub:** [@brady-durham](https://github.com/brady-durham)
 - **Email:** bdrhm@protonmail.com
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/brady-durham) *(if you have one)*
+- **LinkedIn:** [linkedin.com/in/brady-a-durham](https://www.linkedin.com/in/brady-a-durham/)
 
 ---
 
