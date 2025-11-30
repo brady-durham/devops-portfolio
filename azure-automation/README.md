@@ -42,5 +42,12 @@ Infrastructure automation using Azure CLI and bash scripting.
 **VM Deployment Success:**
 ![VM Running](screenshots/Screenshot%20from%202025-11-30%2007-12-35.png)
 
+**Azure Portal - VM Overview:**
+![VM in Portal](screenshots/Screenshot%20from%202025-11-30%2007-47-26.png)
+
+**Azure Portal - VM Details:**
+![VM Details](screenshots/Screenshot%20from%202025-11-30%2007-47-41.png)
+
+
 ### Date Completed:
 November 30, 2025
