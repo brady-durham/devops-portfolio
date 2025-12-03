@@ -114,6 +114,23 @@ docker run -d -p 5000:5000 --name webapp my-webapp
 - `Dockerfile` - Container image definition
 
 ---
+## CI/CD Pipeline
+
+GitHub Actions workflow automates testing on every push:
+
+- Automatic Docker image build
+- Container deployment test
+- Application endpoint verification
+- Pass/fail reporting
+
+Workflow file: .github/workflows/docker-ci.yml
+
+Benefits:
+- Catches bugs before deployment
+- Ensures code quality
+- Automated testing
+- Fast feedback loop
+
 
 **Date Completed:** December 2, 2025
 # CI/CD enabled
