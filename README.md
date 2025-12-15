@@ -1,64 +1,196 @@
-# DevOps Portfolio - Brady Durham
+# DevOps & Cloud Engineering Portfolio
+## Brady Durham
 
-## About Me
-Automotive industry professional transitioning to DevOps/Cloud Engineering. Focused on Azure cloud platform, infrastructure automation, and CI/CD pipelines. Building hands-on experience through practical projects and continuous learning.
+**Parts Delivery Driver → DevOps Engineer**  
+Currently at Crest Honda (Sonic Automotive) | Transitioning to Cloud Operations/DevOps Engineering
 
-## Technical Skills
+---
 
-### Cloud & Infrastructure
-- Azure CLI & Portal
-- Infrastructure as Code concepts
-- Virtual network configuration
-- Resource management
+## 🎯 Career Objective
 
-### Scripting & Automation
-- Bash scripting
-- System administration
-- Task automation
-- CLI tools
+Leveraging 9+ completed hands-on projects and Linux systems administration skills to transition into a DevOps/Cloud Engineering role within Sonic Automotive's IT organization. Building practical expertise in Azure cloud infrastructure, automation, containerization, and CI/CD pipelines.
 
-### Tools & Technologies
-- Git & GitHub
-- Linux (Ubuntu)
-- Azure DevOps (learning)
-- Docker (in progress)
-- Kubernetes (in progress)
+**Internal Connections:**
+- Escalated to VP Gabe Jahn and Cloud Engineering Lead Scott Jernigan through Software Development Manager Phillip Shepherd
+- Positioned for internal transfer in Spring 2026
 
-## Projects
+---
 
-### 1. Azure Infrastructure Automation
+## 🛠️ Technical Skills
+
+### Cloud Platforms
+- **Azure:** CLI automation, resource management, virtual networks, AKS (Kubernetes Service)
+- **Infrastructure as Code:** Terraform (resource provisioning, state management)
+
+### Containerization & Orchestration
+- **Docker:** Multi-container applications, Docker Compose, image optimization
+- **Kubernetes:** Multi-tier deployments, service management, troubleshooting
+
+### CI/CD & Automation
+- **GitHub Actions:** Automated testing, Docker image builds, deployment pipelines
+- **Bash Scripting:** System monitoring, file management, infrastructure automation
+
+### Linux Systems Administration
+- User & group management
+- File permissions & access control (sticky bit, SGID)
+- Process management & service control (systemctl)
+- System troubleshooting & resource monitoring
+
+### Development Tools
+- Git & GitHub (version control, portfolio management)
+- Ubuntu Linux (home lab environment)
+- VS Code, CLI tools
+
+---
+
+## 📁 Featured Projects
+
+### 1. Azure Kubernetes Service (AKS) Deployment
+**[View Project](aks-deployment/)**
+
+Deployed multi-tier application on Azure Kubernetes Service with frontend, backend, and database components. Implemented service discovery, load balancing, and persistent storage.
+
+**Technologies:** Azure AKS, Kubernetes, YAML, kubectl  
+**Skills:** Container orchestration, cloud-native architecture, troubleshooting
+
+---
+
+### 2. Terraform Infrastructure as Code
+**[View Project](terraform-infrastructure/)**
+
+Automated Azure infrastructure provisioning using Terraform. Managed resource groups, virtual networks, and compute resources with declarative configuration and state management.
+
+**Technologies:** Terraform, Azure, HCL  
+**Skills:** Infrastructure automation, declarative configuration, cloud resource management
+
+---
+
+### 3. CI/CD Pipeline with GitHub Actions
+**[View Project](cicd-pipeline/)**
+
+Built automated CI/CD pipeline for containerized application. Implements automated testing, Docker image building, and deployment workflows.
+
+**Technologies:** GitHub Actions, Docker, YAML  
+**Skills:** Continuous integration, automated deployment, workflow automation
+
+---
+
+### 4. Docker Multi-Container Application
+**[View Project](docker-compose-app/)**
+
+Developed multi-tier application using Docker Compose with Nginx frontend, Flask API backend, and PostgreSQL database. Implemented container networking and volume management.
+
+**Technologies:** Docker, Docker Compose, Nginx, Flask, PostgreSQL  
+**Skills:** Containerization, multi-tier architecture, service orchestration
+
+---
+
+### 5. Docker Containerization Project
+**[View Project](docker-containerization/)**
+
+Containerized application with optimized Dockerfile, demonstrating best practices for image layers, caching, and security.
+
+**Technologies:** Docker, Dockerfile, container optimization  
+**Skills:** Container best practices, image optimization, security
+
+---
+
+### 6. Azure CLI Automation
 **[View Project](azure-automation/)**
 
-Automated Azure VM deployment using CLI scripting. Creates complete infrastructure including resource groups, virtual networks, and Ubuntu VMs via bash script.
+Automated Azure VM deployment using bash scripting and Azure CLI. Creates complete infrastructure including resource groups, virtual networks, and Ubuntu VMs.
 
-**Technologies:** Azure CLI, Bash, Linux, Networking
-
-**Skills Demonstrated:** Infrastructure automation, Azure resource management, scripting
+**Technologies:** Azure CLI, Bash, Linux, Networking  
+**Skills:** Infrastructure automation, Azure resource management, scripting
 
 ---
 
-### 2. Bash Automation Scripts
+### 7. Bash Automation Scripts
 **[View Project](bash-scripts/)**
 
-Collection of system administration and automation scripts including file organization and system monitoring tools.
+Collection of system administration and automation scripts including file organization tools and system monitoring utilities.
 
-**Technologies:** Bash, Linux CLI
-
-**Skills Demonstrated:** Scripting, automation, system administration
+**Technologies:** Bash, Linux CLI  
+**Skills:** Scripting, automation, system administration
 
 ---
 
-## Current Focus
-- Azure DevOps and CI/CD pipelines
-- Docker containerization
-- Terraform infrastructure management
-- Kubernetes orchestration
+## 🐧 Linux Systems Administration Labs
 
-## Contact
+### Lab 1: User and Group Management
+**[View Lab](linux-labs/user-group-management-lab-notes.md)**
+
+Practical exercises in Linux user administration, group management, and access control. Simulated real-world team structures with developers, QA, and management groups.
+
+**Skills:** useradd, usermod, groupadd, permission management, team collaboration
+
+---
+
+### Lab 2: File Permissions and Access Control
+**[View Lab](linux-labs/permissions-lab-notes.md)**
+
+Advanced file permissions including sticky bit, SGID, and team collaboration scenarios. Implemented secure shared directories and tested multi-user access patterns.
+
+**Skills:** chmod, chown, special permissions, security best practices
+
+---
+
+### Lab 3: Process Management
+**[View Lab](linux-labs/process-management-lab-notes.md)**
+
+Process monitoring, management, and troubleshooting. System service control with systemctl and log analysis with journalctl.
+
+**Skills:** ps, htop, kill, systemctl, journalctl, resource troubleshooting
+
+---
+
+## 📚 Current Learning Path
+
+**Active (Through May 2025):**
+- Linux systems administration (KubeCraft subscription)
+- Advanced Kubernetes concepts
+- Azure cloud fundamentals
+
+**Upcoming (January 2026):**
+- Azure AZ-900 certification study
+- Cloud architecture patterns
+- Advanced CI/CD practices
+
+---
+
+## 🏠 Home Lab Environment
+
+- **Platform:** Ubuntu 24.04 LTS (KVM virtual machine)
+- **Cloud:** Azure account with $200 credits (Pay-As-You-Go)
+- **Tools:** Docker, Git, Azure CLI, Terraform, kubectl
+- **Purpose:** Hands-on practice for DevOps/Cloud Engineering skills
+
+---
+
+## 📫 Contact
+
 - **GitHub:** [@brady-durham](https://github.com/brady-durham)
 - **Email:** bdrhm@protonmail.com
 - **LinkedIn:** [linkedin.com/in/brady-a-durham](https://www.linkedin.com/in/brady-a-durham/)
+- **Location:** Nashville, TN area
 
 ---
 
-*Portfolio last updated: November 30, 2025*
+## 🎓 About This Portfolio
+
+This portfolio demonstrates practical, hands-on experience in DevOps and Cloud Engineering. All projects are real implementations, not tutorials, built in my home lab environment and documented for professional development.
+
+**Portfolio Philosophy:**
+- Learn by doing, not just reading
+- Document everything for future reference
+- Build skills relevant to enterprise environments
+- Focus on practical problem-solving
+
+---
+
+*Last Updated: December 15, 2025*
+
+
+
+
+
