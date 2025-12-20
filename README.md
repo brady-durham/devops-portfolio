@@ -144,6 +144,26 @@ Process monitoring, management, and troubleshooting. System service control with
 
 ---
 
+### Lab 4: Disk Management
+
+**[View Lab](linux-labs/disk-management-lab-notes.md)**
+
+Disk space monitoring, filesystem management, and troubleshooting storage issues. Analyzed real system usage patterns and implemented cleanup procedures.
+
+**Skills:** df, du, filesystem analysis, space optimization, troubleshooting
+
+---
+
+### Lab 5: Networking Basics
+
+**[View Lab](linux-labs/networking-basics-lab-notes.md)**
+
+Network configuration, connectivity testing, DNS resolution, and port scanning. Analyzed VPN traffic, identified active connections, and implemented systematic troubleshooting workflows.
+
+**Skills:** ip, ping, DNS (nslookup/dig), netstat/ss, nc, network troubleshooting
+
+---
+
 ## 📚 Current Learning Path
 
 **Active (Through May 2025):**
@@ -188,7 +208,7 @@ This portfolio demonstrates practical, hands-on experience in DevOps and Cloud E
 
 ---
 
-*Last Updated: December 15, 2025*
+*Last Updated: December 21, 2025*
 
 
 
