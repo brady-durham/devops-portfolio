@@ -46,7 +46,7 @@ Leveraging 9+ completed hands-on projects and Linux systems administration skill
 ## 📁 Featured Projects
 
 ### 1. Azure Kubernetes Service (AKS) Deployment
-**[View Project](aks-deployment/)**
+**[View Project](kubernetes-deployment/)**
 
 Deployed multi-tier application on Azure Kubernetes Service with frontend, backend, and database components. Implemented service discovery, load balancing, and persistent storage.
 
@@ -56,7 +56,7 @@ Deployed multi-tier application on Azure Kubernetes Service with frontend, backe
 ---
 
 ### 2. Terraform Infrastructure as Code
-**[View Project](terraform-infrastructure/)**
+**[View Project](terraform-azure-vm/)**
 
 Automated Azure infrastructure provisioning using Terraform. Managed resource groups, virtual networks, and compute resources with declarative configuration and state management.
 
@@ -66,7 +66,7 @@ Automated Azure infrastructure provisioning using Terraform. Managed resource gr
 ---
 
 ### 3. CI/CD Pipeline with GitHub Actions
-**[View Project](cicd-pipeline/)**
+**[View Project](.github/workflows/)**
 
 Built automated CI/CD pipeline for containerized application. Implements automated testing, Docker image building, and deployment workflows.
 
@@ -86,7 +86,7 @@ Developed multi-tier application using Docker Compose with Nginx frontend, Flask
 ---
 
 ### 5. Docker Containerization Project
-**[View Project](docker-containerization/)**
+**[View Project](docker-webapp/)**
 
 Containerized application with optimized Dockerfile, demonstrating best practices for image layers, caching, and security.
 
