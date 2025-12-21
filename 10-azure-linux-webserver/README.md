@@ -6,6 +6,20 @@ Deployed and configured a production-ready Linux web server on Azure, demonstrat
 ## Live Demo
 **Public URL:** http://172.203.133.238
 
+## Screenshots
+
+![Live Website](screenshots/01-live-website.png)
+*Custom web application running on Azure Linux VM*
+
+![Server Health Check](screenshots/02-health-check.png)
+*Monitoring script showing server status*
+
+![Nginx Service Status](screenshots/03-nginx-status.png)
+*Systemd service management*
+
+![File Permissions](screenshots/04-permissions.png)
+*Proper user and permission configuration*
+
 ## Objectives
 ✅ Deploy Ubuntu VM in Azure using Azure CLI  
 ✅ Configure networking and security groups  
