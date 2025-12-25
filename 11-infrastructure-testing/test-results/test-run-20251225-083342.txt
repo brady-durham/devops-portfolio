@@ -1,0 +1,29 @@
+
+==========================================
+  Infrastructure Test Suite
+  Date: Thu Dec 25 08:33:42 AM CST 2025
+==========================================
+
+=== Local System Tests ===
+
+Testing: Azure CLI Installation ... [0;32mPASS[0m
+Testing: Firewall Status (UFW Active) ... [0;32mPASS[0m
+Testing: Firewall Rule (SSH Allowed) ... [0;32mPASS[0m
+Testing: Disk Space (< 90% used) ... [0;32mPASS[0m
+Testing: Memory Available (> 100MB) ... [0;32mPASS[0m
+
+=== Network Tests ===
+
+Testing: Internet Connectivity ... [0;32mPASS[0m
+Testing: DNS Resolution ... [0;32mPASS[0m
+Testing: Localhost Response ... [0;31mFAIL[0m
+
+==========================================
+  Test Results Summary
+==========================================
+Total Tests: 8
+Passed: [0;32m7[0m
+Failed: [0;31m1[0m
+
+[0;31m✗ Some tests failed. Review and fix issues.[0m
+
