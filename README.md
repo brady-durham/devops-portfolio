@@ -180,12 +180,18 @@ Network configuration, connectivity testing, DNS resolution, and port scanning. 
 
 ## 🏠 Home Lab Environment
 
-- **Platform:** Ubuntu 24.04 LTS (KVM virtual machine)
+### Physical Infrastructure
+- **Server:** Dell Precision T5400 with VMware ESXi
+  - Enterprise virtualization host for hands-on infrastructure practice
+  - See [homelab/](./homelab/) for detailed documentation
+  
+### Development Environment  
+- **Workstation:** Ubuntu 24.04 LTS desktop
 - **Cloud:** Azure account with $200 credits (Pay-As-You-Go)
 - **Tools:** Docker, Git, Azure CLI, Terraform, kubectl
-- **Purpose:** Hands-on practice for DevOps/Cloud Engineering skills
 
----
+### Purpose
+Hands-on practice for System Administration, QA, and Cloud Engineering skills through real infrastructure management and testing.
 
 ## 📫 Contact
 
@@ -208,7 +214,7 @@ This portfolio demonstrates practical, hands-on experience in DevOps and Cloud E
 
 ---
 
-*Last Updated: December 21, 2025*
+*Last Updated: December 25, 2025*
 
 
 
