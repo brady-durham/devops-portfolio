@@ -4,7 +4,7 @@
 Build a Layer 2 switched network with VLANs, trunking (manual and dynamic), an LACP EtherChannel, and inter-VLAN routing via router-on-a-stick. Verify connectivity and explore neighbor discovery differences between CDP and LLDP.
 
 ## Topology
-![Topology](screenshots/01-topology.png)
+![Topology](Screenshot%202026-09-07%20121136.png)
 
 - **SW1, SW2, SW3**: Layer 2 switches
 - **R1**: Router performing inter-VLAN routing (router-on-a-stick)
